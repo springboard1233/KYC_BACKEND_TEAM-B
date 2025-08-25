@@ -1,0 +1,4 @@
+faker
+pillow
+easyocr
+pandas
